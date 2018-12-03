@@ -1,4 +1,5 @@
 # FFMPEG_Examples_On_Windows
+英语好的可以直接去官网 https://ffmpeg.org/
 简介
 FFmpeg 是一个集录制、转换、音/视频编码解码功能 为一体的完整的开源解决方案。FFmpeg 的开发是基于 Linux 操作系统,但是可以在大多数操作系统中编译和使用。
 FFmpeg工具
