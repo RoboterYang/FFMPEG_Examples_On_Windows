@@ -31,3 +31,4 @@ libswscale
 libswresample
 用于音频采样采样数据（PCM）的转换
 摘自简书 https://www.jianshu.com/p/e41f6860fa5f
+推荐大佬：https://www.cnblogs.com/wanggang123 这位大佬提供有非常优秀的资源，初学者或者研究的都可以去看看
