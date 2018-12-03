@@ -30,3 +30,4 @@ libswscale
 执行高度优化的图像缩放和颜色空间/像素格式转换操作的库
 libswresample
 用于音频采样采样数据（PCM）的转换
+摘自简书 https://www.jianshu.com/p/e41f6860fa5f
